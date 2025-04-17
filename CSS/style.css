@@ -108,7 +108,6 @@ body {
     right: -15px;
     background: linear-gradient(135deg, #2196f3, #4caf50);
     width: 200px;
-    border: 1px solid #ccc;
     display: none;
     padding: 0.5rem 2rem;
   }
