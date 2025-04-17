@@ -283,7 +283,7 @@
  
   .about {
     background: #e3f2fd;
-    padding: 4rem 1rem;
+    padding: 4rem 10rem;
     text-align: center;
   }
   
@@ -322,7 +322,7 @@
 
   .why-choose-us {
     background: #ffffff;
-    padding: 4rem 1rem;
+    padding: 4rem 10rem;
     text-align: center;
   }
   
@@ -360,7 +360,7 @@
 
   .testimonials {
     background: #e3f2fd;
-    padding: 4rem 1rem;
+    padding: 4rem 10rem;
     text-align: center;
   }
   
@@ -397,7 +397,7 @@
 
 .contact {
   background: #f1f1f1;
-  padding: 4rem 1rem;
+  padding: 4rem 10rem;
   text-align: center;
 }
 
@@ -477,6 +477,18 @@
     .cards {
       flex-direction: column;
       align-items: center;
+    }
+    .about{
+      padding: 4rem 1rem;
+    }
+    .contact{
+      padding: 4rem 1rem;
+    }
+    .testimonials{
+      padding: 4rem 1rem;
+    }
+    .why-choose-us{
+      padding: 4rem 1rem;
     }
   
     .hero h1 {
