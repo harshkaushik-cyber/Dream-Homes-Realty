@@ -114,7 +114,9 @@ body {
   }
 
   .nav-links.active {
+    display: flex;
     opacity: 1;
+    flex-direction: column;
     transform: translateY(0);
     pointer-events: auto;
   }
